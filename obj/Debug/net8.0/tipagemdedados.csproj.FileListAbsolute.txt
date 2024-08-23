@@ -1,0 +1,14 @@
+C:\Users\Amanda\aula03\tipagemdedados\bin\Debug\net8.0\tipagemdedados.exe
+C:\Users\Amanda\aula03\tipagemdedados\bin\Debug\net8.0\tipagemdedados.deps.json
+C:\Users\Amanda\aula03\tipagemdedados\bin\Debug\net8.0\tipagemdedados.runtimeconfig.json
+C:\Users\Amanda\aula03\tipagemdedados\bin\Debug\net8.0\tipagemdedados.dll
+C:\Users\Amanda\aula03\tipagemdedados\bin\Debug\net8.0\tipagemdedados.pdb
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.AssemblyInfoInputs.cache
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.AssemblyInfo.cs
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.dll
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\refint\tipagemdedados.dll
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.pdb
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\tipagemdedados.genruntimeconfig.cache
+C:\Users\Amanda\aula03\tipagemdedados\obj\Debug\net8.0\ref\tipagemdedados.dll
